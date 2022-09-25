@@ -3,10 +3,10 @@ This is an analysis of the world happiness report from the years 2015-2019 compa
 
 ## Objectives
 This analysis will focus on answering the following questions:
--What areas of the world are the happiest and the least happy?
--How has the happiness score of countries changed over time?
--Is there a connection between world happiness score and deaths from Covid-19?
--Is there a connection between world happiness score and suicide rates?
+- What areas of the world are the happiest and the least happy?
+- How has the happiness score of countries changed over time?
+- Is there a connection between world happiness score and deaths from Covid-19?
+- Is there a connection between world happiness score and suicide rates?
 
 ## Data
 World Happiness Report, worldhappiness.report, Reports of the years 2015-2019, Sustainable Development Solutions Network, https://worldhappiness.report/, Accessed July 1st, 2022.
@@ -17,5 +17,5 @@ Suicide Rates by Country, who.int, 2019 rates, World Health Organization, https:
 
 ## Deliverables
 Included in the respository is:
--Scripts used to analyze and wrangle the data
--A tableau presentation of the results
+- Scripts used to analyze and wrangle the data
+- A tableau presentation of the results
