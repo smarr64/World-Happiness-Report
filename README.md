@@ -18,4 +18,4 @@ Suicide Rates by Country, who.int, 2019 rates, World Health Organization, https:
 ## Deliverables
 Included in the respository is:
 - Scripts used to analyze and wrangle the data
-- A tableau presentation of the results
+- A Tableau presentation of the results
