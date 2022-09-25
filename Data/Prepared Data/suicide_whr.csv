@@ -1,0 +1,157 @@
+,Rank,Country,Score,"Suicides / 100,000"
+0,1,Finland,7.769,13.4
+1,2,Denmark,7.6,7.6
+2,3,Norway,7.554,11.8
+3,4,Iceland,7.494,11.2
+4,5,Netherlands,7.488,9.3
+5,6,Switzerland,7.48,9.8
+6,7,Sweden,7.343,12.4
+7,8,New Zealand,7.307,10.3
+8,9,Canada,7.278,10.3
+9,10,Austria,7.246,10.4
+10,11,Australia,7.228,11.3
+11,12,Costa Rica,7.167,7.6
+12,13,Israel,7.139,5.2
+13,14,Luxembourg,7.09,8.6
+14,15,United Kingdom,7.054,6.9
+15,16,Ireland,7.021,8.9
+16,17,Germany,6.985,8.3
+17,18,Belgium,6.923,13.9
+18,19,United States,6.892,14.5
+19,20,Czech Republic,6.852,9.5
+20,21,United Arab Emirates,6.825,5.2
+21,22,Malta,6.726,5.3
+22,23,Mexico,6.595,5.3
+23,24,France,6.592,9.7
+24,25,Taiwan,6.446,
+25,26,Chile,6.444,8.0
+26,27,Guatemala,6.436,6.2
+27,28,Saudi Arabia,6.375,5.4
+28,29,Qatar,6.374,4.7
+29,30,Spain,6.354,5.3
+30,31,Panama,6.321,2.9
+31,32,Brazil,6.3,6.4
+32,33,Uruguay,6.293,18.8
+33,34,Singapore,6.262,9.7
+34,35,El Salvador,6.253,6.1
+35,36,Italy,6.223,4.3
+36,37,Bahrain,6.199,7.2
+37,38,Slovakia,6.198,9.3
+38,39,Trinidad & Tobago,6.192,
+39,40,Poland,6.182,9.3
+40,41,Uzbekistan,6.174,8.3
+41,42,Lithuania,6.149,20.2
+42,43,Colombia,6.125,3.7
+43,44,Slovenia,6.118,14.0
+44,45,Nicaragua,6.105,4.7
+45,46,Kosovo,6.1,
+46,47,Argentina,6.086,8.1
+47,48,Romania,6.07,7.3
+48,49,Cyprus,6.046,3.2
+49,50,Ecuador,6.028,7.7
+50,51,Kuwait,6.021,2.7
+51,52,Thailand,6.008,8.0
+52,53,Latvia,5.94,16.1
+53,54,South Korea,5.895,21.2
+54,55,Estonia,5.893,12.0
+55,56,Jamaica,5.89,2.3
+56,57,Mauritius,5.888,8.8
+57,58,Japan,5.886,12.2
+58,59,Honduras,5.86,2.6
+59,60,Kazakhstan,5.809,18.1
+60,61,Bolivia,5.779,6.8
+61,62,Hungary,5.758,11.8
+62,63,Paraguay,5.743,6.2
+63,64,Northern Cyprus,5.718,
+64,65,Peru,5.697,2.7
+65,66,Portugal,5.693,7.2
+66,67,Pakistan,5.653,9.8
+67,68,Russia,5.648,21.6
+68,69,Philippines,5.631,2.5
+69,70,Serbia,5.603,7.9
+70,71,Moldova,5.529,12.2
+71,72,Libya,5.525,4.5
+72,73,Montenegro,5.523,16.2
+73,74,Tajikistan,5.467,5.3
+74,75,Croatia,5.432,11.0
+75,76,Hong Kong,5.43,
+76,77,Dominican Republic,5.425,5.1
+77,78,Bosnia and Herzegovina,5.386,8.3
+78,79,Turkey,5.373,2.3
+79,80,Malaysia,5.339,5.8
+80,81,Belarus,5.323,16.5
+81,82,Greece,5.287,3.6
+82,83,Mongolia,5.285,18.0
+83,84,North Macedonia,5.274,7.2
+84,85,Nigeria,5.265,6.9
+85,86,Kyrgyzstan,5.261,8.3
+86,87,Turkmenistan,5.247,6.1
+87,88,Algeria,5.211,2.6
+88,89,Morocco,5.208,7.3
+89,90,Azerbaijan,5.208,4.0
+90,91,Lebanon,5.197,2.8
+91,92,Indonesia,5.192,2.6
+92,93,China,5.191,6.7
+93,94,Vietnam,5.175,7.2
+94,95,Bhutan,5.082,5.1
+95,96,Cameroon,5.044,15.9
+96,97,Bulgaria,5.011,6.5
+97,98,Ghana,4.996,10.5
+98,99,Ivory Coast,4.944,15.7
+99,100,Nepal,4.913,9.8
+100,101,Jordan,4.906,2.0
+101,102,Benin,4.883,12.7
+102,103,Congo (Brazzaville),4.812,
+103,104,Gabon,4.799,13.1
+104,105,Laos,4.796,6.0
+105,106,South Africa,4.722,23.5
+106,107,Albania,4.719,3.7
+107,108,Venezuela,4.707,2.1
+108,109,Cambodia,4.7,5.5
+109,110,Palestinian Territories,4.696,
+110,111,Senegal,4.681,11.0
+111,112,Somalia,4.668,14.7
+112,113,Namibia,4.639,13.5
+113,114,Niger,4.628,10.1
+114,115,Burkina Faso,4.587,14.4
+115,116,Armenia,4.559,2.7
+116,117,Iran,4.548,5.1
+117,118,Guinea,4.534,12.3
+118,119,Georgia,4.519,7.7
+119,120,Gambia,4.516,9.6
+120,121,Kenya,4.509,11.0
+121,122,Mauritania,4.49,5.5
+122,123,Mozambique,4.466,23.2
+123,124,Tunisia,4.461,3.2
+124,125,Bangladesh,4.456,3.9
+125,126,Iraq,4.437,4.7
+126,127,Congo (Kinshasa),4.418,
+127,128,Mali,4.39,8.0
+128,129,Sierra Leone,4.374,11.3
+129,130,Sri Lanka,4.366,12.9
+130,131,Myanmar,4.36,3.0
+131,132,Chad,4.35,13.2
+132,133,Ukraine,4.332,17.7
+133,134,Ethiopia,4.286,9.5
+134,135,Swaziland,4.212,
+135,136,Uganda,4.189,10.4
+136,137,Egypt,4.166,3.4
+137,138,Zambia,4.107,14.4
+138,139,Togo,4.085,14.8
+139,140,India,4.015,12.9
+140,141,Liberia,3.975,7.4
+141,142,Comoros,3.973,8.5
+142,143,Madagascar,3.933,9.2
+143,144,Lesotho,3.802,87.5
+144,145,Burundi,3.775,12.1
+145,146,Zimbabwe,3.663,23.6
+146,147,Haiti,3.597,11.2
+147,148,Botswana,3.488,20.2
+148,149,Syria,3.462,2.1
+149,150,Malawi,3.41,10.6
+150,151,Yemen,3.38,7.1
+151,152,Rwanda,3.334,9.5
+152,153,Tanzania,3.231,8.2
+153,154,Afghanistan,3.203,6.0
+154,155,Central African Republic,3.083,23.0
+155,156,South Sudan,2.853,6.7
